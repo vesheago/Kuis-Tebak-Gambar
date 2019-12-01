@@ -1,2 +1,3 @@
-# Tugas besar Pemrograman Berorientasi Objek
-# membuat aplikasi Kuis Tebak Gambar
+# Tugas Besar Mata Kuliah Pemrograman Berorientasi Objek
+
+Membuat aplikasi Kuis Tebak Gambar
